@@ -1,0 +1,72 @@
+RecentFiles	Recent1	\UTDD\ASR\ACC\Dushanbe.asr
+RecentFiles	Recent2	\UTDD\ASR\GND\Dushanbe_GMC.asr
+RecentFiles	Recent3	\UTDD\ASR\GND\Kulob_GMC.asr
+RecentFiles	Recent4	\UTDD\ASR\GND\Khudjand_GMC.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	airlines	\UTDD\ICAO\ICAO_Airlines.txt
+Settings	airports	\UTDD\ICAO\ICAO_Airports.txt
+Settings	aircraft	\UTDD\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\UTDD\NavData\icao.txt
+Settings	airways	\UTDD\NavData\airway.txt
+Settings	isec	\UTDD\NavData\isec.txt
+Settings	SettingsfileSIL	\UTDD\Settings\TAG.txt
+Settings	SettingsfileSEL	\UTDD\Settings\ExitList.txt
+Settings	SettingsfileDEP	\UTDD\Settings\DepartureList.txt
+Settings	SettingsfileARR	\UTDD\Settings\ArrivalList.txt
+Settings	SettingsfileSYMBOLOGY	\UTDD\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\UTDD\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\UTDD\Settings\LoginProfiles.txt
+Settings	SettingsfileTAGS	\UTDD\Settings\TAG.txt
+Settings	SettingsfilePLUGINS	\UTDD\Settings\Plugin.txt
+Settings	Settingsfile	\UTDD\Settings\General.txt
+Settings	SettingsfileVCCS	\UTDD\Settings\VCCS.txt
+Settings	SettingsfileFP	\UTDD\Settings\FPList.txt
+Settings	SettingsfileCONFLICT	\UTDD\Settings\ConflictList.txt
+Settings	SettingsfilePILOTING	\UTDD\Settings\PilotingList.txt
+Settings	SettingsfileORIGPLANE	\UTDD\Settings\OriginPlaneList.txt
+Settings	SettingsfileSTUP	\UTDD\Settings\StartupList.txt
+Settings	SettingsfileTAXIOUT	\UTDD\Settings\TaxioutList.txt
+Settings	SettingsfileTAKEOFF	\UTDD\Settings\TakeoffList.txt
+Settings	SettingsfileADCS	\UTDD\Settings\ADCSectorList.txt
+Settings	SettingsfileTAXIIN	\UTDD\Settings\TaxiinList.txt
+Settings	SettingsfileSCREEN	\UTDD\Settings\Screen.txt
+Sounds	Sound0	\Sounds\handoff_request.wav
+Sounds	Sound1	\Sounds\handoff_accept.wav
+Sounds	Sound2	\Sounds\conflict_alert.wav
+Sounds	Sound3	\Sounds\radio_message.wav
+Sounds	Sound4	\Sounds\private_message.wav
+Sounds	Sound5	\Sounds\atc_message.wav
+Sounds	Sound6	\Sounds\broadcast_message.wav
+Sounds	Sound7	\Sounds\landline_request.wav
+Sounds	Sound8	\Sounds\supervisor_message.wav
+Sounds	Sound9	\Sounds\connected.wav
+Sounds	Sound10	\Sounds\disconnected.wav
+Sounds	Sound11	\Sounds\ongoing_request.wav
+Sounds	Sound12	\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\Sounds\ongoing_refused.wav
+Sounds	Sound14	\Sounds\ongoing_manual.wav
+Sounds	Sound15	\Sounds\new_atis.wav
+Sounds	Sound16	\Sounds\handoff_refused.wav
+Sounds	Sound17	\Sounds\pointout.wav
+Sounds	Sound18	\Sounds\startup_silent.wav
+TeamSpeakVccs	TsVccsMiniControlX	1484
+TeamSpeakVccs	TsVccsMiniControlY	47
+TeamSpeakVccs	Ts3DialogLeft	882
+TeamSpeakVccs	Ts3DialogTop	366
+TeamSpeakVccs	Ts3DialogRight	1767
+TeamSpeakVccs	Ts3DialogBottom	922
+TeamSpeakVccs	Ts3G2APtt	3670016
+TeamSpeakVccs	Ts3G2GPtt	3670016
+TeamSpeakVccs	PlaybackMode	Windows Audio Session
+TeamSpeakVccs	PlaybackDevice	Наушники гарнитуры (5- JBL Quantum810 Wireless Chat)
+TeamSpeakVccs	CaptureMode	Windows Audio Session
+TeamSpeakVccs	CaptureDevice	Микрофон (5- JBL Quantum810 Wireless Chat)
+TeamSpeakVccs	Ts3NickName	Your CID
+Plugins	Plugin0	\UTDD\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1	\UTDD\Plugins\Ground-Radar-Plugin\GRplugin.dll
+Plugins	Plugin2	\UTDD\Plugins\Discord\DiscordEuroscope.dll
+Plugins	Plugin3	\UTDD\Plugins\Timer\ESTimers.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1Display1	Standard ES radar screen
