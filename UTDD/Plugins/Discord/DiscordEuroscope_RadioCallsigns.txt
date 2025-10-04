@@ -1,0 +1,9 @@
+UTDD_CTR Dushanbe Control
+UTDD_APP Dushanbe Approach
+UTDD_R_APP Dushanbe Radar
+UTDD_TWR Dushanbe Tower
+UTDD_GND Dushanbe Ground
+UTDL_R_APP Khudjand Radar
+UTDL_TWR Khudjand Ground
+UTDK_TWR Kulob Tower
+UTDT_TWR Bokhtar Tower

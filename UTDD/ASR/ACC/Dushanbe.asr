@@ -1,0 +1,87 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Central Asia\Tajikistan\Tajikistan Development\UTDD-Development-Build_20250721203140-241301-0008.sct
+SECTORTITLE:UTDD-Development-Build_20250721203140-241301-0008.sct
+ARTCC boundary:UTDD_E_CTR:
+ARTCC boundary:UTDD_N_CTR:
+ARTCC boundary:UTDD_S_CTR:
+ARTCC high boundary:UTDD_APP:
+ARTCC low boundary:UTDD_R_APP:
+ARTCC low boundary:UTDK_TWR:
+ARTCC low boundary:UTDL_TWR:
+ARTCC low boundary:UTDT_TWR:
+Runways:UTDD 09-27:centerline
+Runways:UTDD 09-27:extended centerline 1
+Runways:UTDD 09-27:extended centerline 1 left base
+Runways:UTDD 09-27:extended centerline 1 left ticks
+Runways:UTDD 09-27:extended centerline 1 left vectoring
+Runways:UTDD 09-27:extended centerline 1 right base
+Runways:UTDD 09-27:extended centerline 1 right ticks
+Runways:UTDD 09-27:extended centerline 1 right vectoring
+Runways:UTDD 09-27:extended centerline 2
+Runways:UTDD 09-27:extended centerline 2 left base
+Runways:UTDD 09-27:extended centerline 2 left ticks
+Runways:UTDD 09-27:extended centerline 2 left vectoring
+Runways:UTDD 09-27:extended centerline 2 right base
+Runways:UTDD 09-27:extended centerline 2 right ticks
+Runways:UTDD 09-27:extended centerline 2 right vectoring
+Runways:UTDK 01-19:centerline
+Runways:UTDK 01-19:extended centerline 1
+Runways:UTDK 01-19:extended centerline 1 left base
+Runways:UTDK 01-19:extended centerline 1 left ticks
+Runways:UTDK 01-19:extended centerline 1 left vectoring
+Runways:UTDK 01-19:extended centerline 1 right base
+Runways:UTDK 01-19:extended centerline 1 right ticks
+Runways:UTDK 01-19:extended centerline 1 right vectoring
+Runways:UTDK 01-19:extended centerline 2
+Runways:UTDK 01-19:extended centerline 2 left base
+Runways:UTDK 01-19:extended centerline 2 left ticks
+Runways:UTDK 01-19:extended centerline 2 left vectoring
+Runways:UTDK 01-19:extended centerline 2 right base
+Runways:UTDK 01-19:extended centerline 2 right ticks
+Runways:UTDK 01-19:extended centerline 2 right vectoring
+Runways:UTDL 08-26:centerline
+Runways:UTDL 08-26:extended centerline 1
+Runways:UTDL 08-26:extended centerline 1 left base
+Runways:UTDL 08-26:extended centerline 1 left ticks
+Runways:UTDL 08-26:extended centerline 1 left vectoring
+Runways:UTDL 08-26:extended centerline 1 right base
+Runways:UTDL 08-26:extended centerline 1 right ticks
+Runways:UTDL 08-26:extended centerline 1 right vectoring
+Runways:UTDL 08-26:extended centerline 2
+Runways:UTDL 08-26:extended centerline 2 left base
+Runways:UTDL 08-26:extended centerline 2 left ticks
+Runways:UTDL 08-26:extended centerline 2 left vectoring
+Runways:UTDL 08-26:extended centerline 2 right base
+Runways:UTDL 08-26:extended centerline 2 right ticks
+Runways:UTDL 08-26:extended centerline 2 right vectoring
+Runways:UTDT 17-35:centerline
+Runways:UTDT 17-35:extended centerline 1
+Runways:UTDT 17-35:extended centerline 1 left base
+Runways:UTDT 17-35:extended centerline 1 left ticks
+Runways:UTDT 17-35:extended centerline 1 left vectoring
+Runways:UTDT 17-35:extended centerline 1 right base
+Runways:UTDT 17-35:extended centerline 1 right ticks
+Runways:UTDT 17-35:extended centerline 1 right vectoring
+Runways:UTDT 17-35:extended centerline 2
+Runways:UTDT 17-35:extended centerline 2 left base
+Runways:UTDT 17-35:extended centerline 2 left ticks
+Runways:UTDT 17-35:extended centerline 2 left vectoring
+Runways:UTDT 17-35:extended centerline 2 right base
+Runways:UTDT 17-35:extended centerline 2 right ticks
+Runways:UTDT 17-35:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:ATM System Master-AS
+WINDOWAREA:35.718045:64.269012:41.555411:77.737786

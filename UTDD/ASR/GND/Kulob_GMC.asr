@@ -1,0 +1,43 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Tajikistan\UTDD-Development-Build_20250721203140-241301-0008.sct
+SECTORTITLE:UTDD-Development-Build_20250721203140-241301-0008.sct
+Free Text:UTDK Ground Freetext\A1:freetext
+Free Text:UTDK Ground Freetext\A11:freetext
+Free Text:UTDK Ground Freetext\A2:freetext
+Free Text:UTDK Ground Freetext\A3:freetext
+Free Text:UTDK Ground Freetext\A4:freetext
+Free Text:UTDK Ground Freetext\B12:freetext
+Free Text:UTDK Ground Freetext\B13:freetext
+Free Text:UTDK Ground Freetext\B6:freetext
+Free Text:UTDK Ground Freetext\C10:freetext
+Free Text:UTDK Ground Freetext\C6:freetext
+Free Text:UTDK Ground Freetext\C7:freetext
+Free Text:UTDK Ground Freetext\C8:freetext
+Free Text:UTDK Ground Freetext\C9:freetext
+Free Text:UTDK Ground Freetext\TWY A:freetext
+Free Text:UTDK Ground Freetext\TWY B:freetext
+Free Text:UTDK Ground Freetext\TWY C:freetext
+Free Text:UTDK Ground Freetext\TWY M:freetext
+Free Text:UTDK Ground Freetext\TWY M:freetext
+Geo:UTDK Groundlayout:
+Regions:UTDK Ground Polygons:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:254.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:37.979676:69.797204:37.987547:69.815364
+PLUGIN:Ground Radar plugin:AirportElevation:2295
+PLUGIN:Ground Radar plugin:AirportRadius:1.2	
+PLUGIN:Ground Radar plugin:GroundMode:UTDL
+PLUGIN:TopSky plugin:NoDraw:1

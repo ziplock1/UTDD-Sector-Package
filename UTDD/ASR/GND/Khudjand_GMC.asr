@@ -1,0 +1,50 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:UTDL Ground Freetext\A1:freetext
+Free Text:UTDL Ground Freetext\A2:freetext
+Free Text:UTDL Ground Freetext\A3:freetext
+Free Text:UTDL Ground Freetext\A5:freetext
+Free Text:UTDL Ground Freetext\B1:freetext
+Free Text:UTDL Ground Freetext\B2:freetext
+Free Text:UTDL Ground Freetext\B3:freetext
+Free Text:UTDL Ground Freetext\C1:freetext
+Free Text:UTDL Ground Freetext\C2:freetext
+Free Text:UTDL Ground Freetext\C3:freetext
+Free Text:UTDL Ground Freetext\C4:freetext
+Free Text:UTDL Ground Freetext\C5:freetext
+Free Text:UTDL Ground Freetext\C6:freetext
+Free Text:UTDL Ground Freetext\D1:freetext
+Free Text:UTDL Ground Freetext\D2:freetext
+Free Text:UTDL Ground Freetext\D3:freetext
+Free Text:UTDL Ground Freetext\D4:freetext
+Free Text:UTDL Ground Freetext\D5:freetext
+Free Text:UTDL Ground Freetext\D6:freetext
+Free Text:UTDL Ground Freetext\TWY A:freetext
+Free Text:UTDL Ground Freetext\TWY B:freetext
+Free Text:UTDL Ground Freetext\TWY C:freetext
+Free Text:UTDL Ground Freetext\TWY D:freetext
+Free Text:UTDL Ground Freetext\TWY E:freetext
+Free Text:UTDL Ground Freetext\TWY F:freetext
+Geo:UTDL Groundlayout:
+Regions:UTDL Ground Polygons:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:40.206056:69.668054:40.230075:69.723474
+PLUGIN:Ground Radar plugin:AirportElevation:1423
+PLUGIN:Ground Radar plugin:AirportRadius:1.2	
+PLUGIN:Ground Radar plugin:GroundMode:UTDL
+PLUGIN:TopSky plugin:NoDraw:1

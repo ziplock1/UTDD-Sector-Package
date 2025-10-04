@@ -1,0 +1,76 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Central Asia\Tajikistan\Tajikistan Development\UTDD-Development-Build_20250721203140-241301-0008.sct
+SECTORTITLE:UTDD-Development-Build_20250721203140-241301-0008.sct
+Free Text:UTDD Ground Freetext\A1:freetext
+Free Text:UTDD Ground Freetext\A10:freetext
+Free Text:UTDD Ground Freetext\A2:freetext
+Free Text:UTDD Ground Freetext\A3:freetext
+Free Text:UTDD Ground Freetext\A4:freetext
+Free Text:UTDD Ground Freetext\A5:freetext
+Free Text:UTDD Ground Freetext\A5W:freetext
+Free Text:UTDD Ground Freetext\A5Y:freetext
+Free Text:UTDD Ground Freetext\A6:freetext
+Free Text:UTDD Ground Freetext\A7:freetext
+Free Text:UTDD Ground Freetext\A8:freetext
+Free Text:UTDD Ground Freetext\A9:freetext
+Free Text:UTDD Ground Freetext\B1:freetext
+Free Text:UTDD Ground Freetext\B10:freetext
+Free Text:UTDD Ground Freetext\B11:freetext
+Free Text:UTDD Ground Freetext\B1W:freetext
+Free Text:UTDD Ground Freetext\B2:freetext
+Free Text:UTDD Ground Freetext\B3:freetext
+Free Text:UTDD Ground Freetext\B3W:freetext
+Free Text:UTDD Ground Freetext\B4:freetext
+Free Text:UTDD Ground Freetext\B5:freetext
+Free Text:UTDD Ground Freetext\B6:freetext
+Free Text:UTDD Ground Freetext\B7:freetext
+Free Text:UTDD Ground Freetext\B8:freetext
+Free Text:UTDD Ground Freetext\B9:freetext
+Free Text:UTDD Ground Freetext\C1:freetext
+Free Text:UTDD Ground Freetext\C2:freetext
+Free Text:UTDD Ground Freetext\C3:freetext
+Free Text:UTDD Ground Freetext\C4:freetext
+Free Text:UTDD Ground Freetext\C5:freetext
+Free Text:UTDD Ground Freetext\D1:freetext
+Free Text:UTDD Ground Freetext\D2:freetext
+Free Text:UTDD Ground Freetext\D3:freetext
+Free Text:UTDD Ground Freetext\D4:freetext
+Free Text:UTDD Ground Freetext\D5:freetext
+Free Text:UTDD Ground Freetext\E0:freetext
+Free Text:UTDD Ground Freetext\E1:freetext
+Free Text:UTDD Ground Freetext\E2:freetext
+Free Text:UTDD Ground Freetext\E3:freetext
+Free Text:UTDD Ground Freetext\E4:freetext
+Free Text:UTDD Ground Freetext\Heli:freetext
+Free Text:UTDD Ground Freetext\TWY A:freetext
+Free Text:UTDD Ground Freetext\TWY B:freetext
+Free Text:UTDD Ground Freetext\TWY C:freetext
+Free Text:UTDD Ground Freetext\TWY D:freetext
+Free Text:UTDD Ground Freetext\TWY E:freetext
+Free Text:UTDD Ground Freetext\TWY F:freetext
+Free Text:UTDD Ground Freetext\TWY M:freetext
+Free Text:UTDD Ground Freetext\TWY M:freetext
+Free Text:UTDD Ground Freetext\TWY M:freetext
+Free Text:UTDD Ground Freetext\TWY M:freetext
+Geo:UTDD Groundlayout:
+Regions:UTDD Ground Polygons:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:38.536383:68.799725:38.555599:68.844063
+PLUGIN:Ground Radar plugin:AirportElevation:2569
+PLUGIN:Ground Radar plugin:AirportRadius:1.2	
+PLUGIN:Ground Radar plugin:GroundMode:UTDD
+PLUGIN:TopSky plugin:NoDraw:1
